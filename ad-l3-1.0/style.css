@@ -1,5 +1,19 @@
 html {
     height: 100%;
     width: 100%;
-  }
-  
+}
+
+body {
+  background-color: grey;
+}
+
+#beans {
+  color:green;
+}
+
+.blue{
+  color:blue;
+}
+#red{
+  color:red;
+}
